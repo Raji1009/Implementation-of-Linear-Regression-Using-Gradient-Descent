@@ -1,11 +1,4 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
-```
-
-Program to implement the linear regression using gradient descent.
-Developed by: Rajalakshmi R
-RegisterNumber: 212223110037
-
-```
 
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
@@ -35,6 +28,12 @@ step 9: End
 
 ## Program:
 ```
+/*
+Program to implement the linear regression using gradient descent.
+Developed by: Rajalakshmi R
+RegisterNumber: 212223110037
+*/
+
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
